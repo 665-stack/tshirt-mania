@@ -20,3 +20,44 @@
 .cart button:hover {
     background-color: white;
 }
+
+/* conditional rendaring style */
+.element-var-p {
+    color: orange;
+}
+
+.freeDelivary {
+    background-color: green;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 5px 8px;
+}
+
+.freeDelivary h3 {
+    margin: 0px;
+    color: white;
+
+}
+
+.freeDelivary p {
+    margin: 0;
+    color: black;
+    font-weight: 700;
+}
+
+.ternary-remove-all {
+    margin-top: 20px;
+    background-color: white !important;
+}
+
+.review-order {
+    background-color: orange;
+}
+
+.voucher-check {
+    background-color: orange;
+    color: black;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 4px;
+}
