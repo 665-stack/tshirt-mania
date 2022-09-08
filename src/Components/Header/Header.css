@@ -1,0 +1,28 @@
+.header {
+    margin-top: 20px;
+
+}
+
+.header h3 {
+    margin: 0;
+    color: black;
+
+
+}
+
+.navbar {
+    margin-top: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-left: 15px;
+    background-color: black;
+    color: white;
+    padding: 4px 20px;
+    border-radius: 20px;
+}
+
+.navbar a:hover {
+    color: orange;
+}
