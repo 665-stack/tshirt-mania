@@ -1,0 +1,22 @@
+.cart h2 {
+    color: rgb(237, 235, 235);
+    margin: 0;
+}
+
+.cart p {
+    margin: 0;
+    margin-top: 20px;
+}
+
+.cart button {
+    background-color: orange;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 3px 10px;
+}
+
+.cart button:hover {
+    background-color: white;
+}

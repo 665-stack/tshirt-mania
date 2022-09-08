@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/glock.png",
+        "price": "35,500"
+    },
+    {
+        "id": 2,
+        "name": "Lenovo IdeaPad Slim 3i 15IGL Intel Celeron N4020 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/FN.png",
+        "price": "39,500"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1 inch HD Touch Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
+        "price": "36,500"
+    },
+    {
+        "id": 4,
+        "name": "Acer TravelMate TMB 311-31-C3CD Celeron N4020 11.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
+        "price": "36,900"
+    },
+    {
+        "id": 5,
+        "name": "Asus Vivobook E410MA Celeron N4020 14 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+        "price": "41,200"
+    },
+    {
+        "id": 6,
+        "name": "Asus Vivobook E510MA Celeron N4020 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+        "price": "41,200"
+    },
+    {
+        "id": 7,
+        "name": "Asus Vivobook X515MA Celeron N4020 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
+        "price": "41,800"
+    },
+    {
+        "id": 8,
+        "name": "Asus Vivobook X515KA Celeron N4500 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
+        "price": "42,500"
+    },
+    {
+        "id": 9,
+        "name": "HP 15s-du1117TU Pentium Silver N5030 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
+        "price": "39,500"
+    },
+    {
+        "id": 10,
+        "name": "HP 15s-du1116TU Pentium Silver N5030 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
+        "price": "39,500"
+    },
+    {
+        "id": 11,
+        "name": "Lenovo IdeaPad Slim 3i Celeron N4020 256GB SSD 15.6 inch HD Laptop with Win 11",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
+        "price": "40,000"
+    },
+    {
+        "id": 12,
+        "name": "Dell Inspiron 15 3510 Intel Pentium Silver N5030 15.6 inch HD Laptop",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
+        "price": "40,800"
+    }
+]
