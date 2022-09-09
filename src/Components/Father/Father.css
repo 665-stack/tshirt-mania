@@ -1,9 +1,18 @@
+.father {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 0px 10px;
+}
+
 .fathers-children {
-    border: none;
     display: flex;
 }
 
 .fathers-children div {
-    background-color: rgba(243, 163, 13, 0.45);
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 20px 10px 20px 10px;
+    background-color: rgba(243, 162, 13, 0.385);
     padding: 0px 20px;
 }
