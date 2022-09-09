@@ -1,0 +1,9 @@
+.fathers-children {
+    border: none;
+    display: flex;
+}
+
+.fathers-children div {
+    background-color: rgba(243, 163, 13, 0.45);
+    padding: 0px 20px;
+}

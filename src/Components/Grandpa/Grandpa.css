@@ -1,0 +1,20 @@
+.grandpa {
+
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 30px 20px 20px 20px;
+    padding: 5px;
+}
+
+
+.grandpas-children {
+    display: flex;
+
+}
+
+.grandpas-children div {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
